@@ -1,0 +1,32 @@
+.cir{
+    border-radius:50%;
+    background-color: blue;
+    top:50px;
+    height: 200px;
+    width:200px;
+    position: relative;
+    margin :50px 100px 100px 464px;
+    /*background-image:  Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#aebcbf+0,6e7774+48,6e7774+48,0a0e0a+70,0a0e0a+81,0a0809+100 */
+    background: #aebcbf; /* Old browsers */
+    background: -moz-radial-gradient(center, ellipse cover,  #aebcbf 0%, #6e7774 48%, #6e7774 48%, #0a0e0a 70%, #0a0e0a 81%, #0a0809 100%); /* FF3.6-15 */
+    background: -webkit-radial-gradient(center, ellipse cover,  #aebcbf 0%,#6e7774 48%,#6e7774 48%,#0a0e0a 70%,#0a0e0a 81%,#0a0809 100%); /* Chrome10-25,Safari5.1-6 */
+    background: radial-gradient(ellipse at center,  #aebcbf 0%,#6e7774 48%,#6e7774 48%,#0a0e0a 70%,#0a0e0a 81%,#0a0809 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aebcbf', endColorstr='#0a0809',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    
+}
+
+
+
+.butt{
+    /*position: absolute;
+    margin: 131px 47px 0px 473px;*/
+    margin: 15px;
+    padding-left: 0em;
+
+
+
+}
+
+button{
+    width:100%;
+}
